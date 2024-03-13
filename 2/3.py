@@ -19,3 +19,4 @@ with open('students.csv') as f:
         else:
             print(f'Проект № {iid} делал: {res[1]} он(а) получил(а) оценку - {res[-1]}')
         iid = input()
+        qlkjew
